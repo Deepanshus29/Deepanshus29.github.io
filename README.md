@@ -11,7 +11,7 @@
 ## Education							       		
 - M.Tech, Fluid and Thermal Science	|Indian Institute of Technology Kanpur (_December 2019_)
     **Relevant Course**: Advanced Mathematics for Engineers (Linear algebra and Calculus) 			        		
-- B.Tech, Mechanical Engineering | Punjabi University, Patiala (_May 2017_)
+- B.Tech, Mechanical Engineering |Punjabi University, Patiala (_May 2017_)
 
 ## Work Experience
 
