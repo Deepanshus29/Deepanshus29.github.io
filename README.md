@@ -5,9 +5,9 @@
 [Website](https://deepanshus29.github.io/) |
 [Instagram](https://www.instagram.com/stupe.fy_/) 
 ## Skills
-#### Languages: Python | SQL | MATLAB
-#### Software Packages: Tableau | MySQL Workbench | Power BI | MS Excel
-#### Additional: Statistical analysis | Statistics | Probability and statistics | Data Visualization
+**Languages:** Python | SQL | MATLAB
+**Software Packages:** Tableau | MySQL Workbench | Power BI | MS Excel
+**Additional:** Statistical analysis | Statistics | Probability and statistics | Data Visualization
 ## Education							       		
 - M.Tech, Fluid and Thermal Science	|| Indian Institute of Technology Kanpur (_December 2019_)		        		
 - B.Tech, Mechanical Engineering || Punjabi University, Patiala (_May 2017_)
