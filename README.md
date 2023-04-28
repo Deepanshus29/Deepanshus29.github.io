@@ -9,8 +9,8 @@
 #### Software Packages: Tableau | MySQL Workbench | Power BI | MS Excel
 #### Additional: Statistical analysis | Statistics | Probability and statistics | Data Visualization
 ## Education							       		
-- M.Tech, Fluid and Thermal Science	|Indian Institute of Technology Kanpur (_December 2019_)		        		
-- B.Tech, Mechanical Engineering |Punjabi University, Patiala (_May 2017_)
+- M.Tech, Fluid and Thermal Science	|| Indian Institute of Technology Kanpur (_December 2019_)		        		
+- B.Tech, Mechanical Engineering || Punjabi University, Patiala (_May 2017_)
 
 ## Work Experience
 
