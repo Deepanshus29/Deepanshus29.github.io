@@ -2,8 +2,8 @@
 ## Social
 [Linkedin](https://www.linkedin.com/in/deepanshus29/) |
 [Github](https://github.com/Deepanshus29) |
-[Website](https://deepanshus29.github.io/) |
-[Instagram](https://www.instagram.com/stupe.fy_/) 
+[Instagram](https://www.instagram.com/stupe.fy_/) |
+[Scaler DSML](https://www.scaler.com/academy/profile/2a07e2fc61b2/)
 ## Skills
 - **Languages:** Python, SQL, MATLAB
 - **Software Packages:** Tableau, MySQL Workbench, Power BI, MS Excel
@@ -12,12 +12,11 @@
 
 ## Education							       		
 **M.Tech, Fluid and Thermal Science _(Indian Institute of Technology Kanpur)_ (_July 2019_)**	
-- xxxxxx
+- Cumulative GPA: 7.25/10
+- Relevant Courses: Advanced Mathematics for Engineers (Linear algebra and Calculus)
 
 **B.Tech, Mechanical Engineering _(Punjabi University, Patiala)_ (_May 2016_)**
-- xxxxxxxxx
-
-## Certifications
+- Cumulative GPA: 6.9/10 
 
 ## Projects
 **SQL Module Project: Sales analysis of e-commerce website Target in Brazil region.**
@@ -44,7 +43,7 @@
 
 ## Thesis
 
-**M.Tech Thesis: Unsteady Wake of an Elliptic Cylinder Near a Free Surface. June 2018 – July 2019**
+**M.Tech Thesis: Unsteady Wake of an Elliptic Cylinder Near a Free Surface. _(June 2018 – July 2019)_**
 - Numerical study of flow past an elliptical bluff body placed near water-air interface.
 - Implementation of Multi-phase flow modeling (Volume of Fluid) in fluid solver FLUENT (ANSYS).
 - Identification of the flow regimes and stability analysis of the wake structures using phase plots.
