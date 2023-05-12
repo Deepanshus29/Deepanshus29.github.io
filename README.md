@@ -8,6 +8,8 @@
 - Languages: Python, SQL, MATLAB
 - Software Packages: Tableau, MySQL Workbench, Power BI, MS Excel
 - Additional: Statistical analysis, Statistics, Probability and statistics, Data Visualization
+
+
 ## Education							       		
 **M.Tech, Fluid and Thermal Science _(Indian Institute of Technology Kanpur)_ (_July 2019_)**	
 - xxxxxx
