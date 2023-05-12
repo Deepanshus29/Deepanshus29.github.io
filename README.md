@@ -19,6 +19,8 @@
 - Cumulative GPA: 6.9/10 
 
 ## Projects
+**Logistics Optimization:**
+- [Blog](https://deepanshus29.github.io/Logistics_optimization/)
 **SQL Module Project: Sales analysis of e-commerce website Target in Brazil region.**
 - Performed the analysis using Google BigQuery.
 - Performed customer classification using RFM Model
